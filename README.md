@@ -4,7 +4,7 @@ Hi, I’m @Aqsa-Sadaqat 👋
 
 💼 Current Role: Web Developer @ Herbyzone
 
-🌱 Skills: Social Media Marketing (SMM) | UI/UX Design | Prototyping | Software Quality Assurance (SQA) | Junior Android Developer
+🌱 Skills: Social Media Marketing (SMM) | UI/UX Design | Prototyping | Software Quality Assurance (SQA) | Junior Android Developer | Beginner in Machine Learning
 
 🎓 Education: Graduating from LGU in 2024
 
