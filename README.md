@@ -2,13 +2,13 @@ Hi, I’m @Aqsa-Sadaqat 👋
 
 👩🏻‍💻 Profession: Software Engineer | Web Developer | Flutter Developer
 
-💼 Current Role: Web Developer @ Herbyzone
+💼 Current Role: Web Developer @ Recipelabs
 
-🌱 Skills: Social Media Marketing (SMM) | UI/UX Design | Prototyping | Software Quality Assurance (SQA) | Junior Android Developer | Beginner in Machine Learning
+🌱 Skills: | Flutter applications |Social Media Marketing (SMM) | UI/UX Design | Prototyping | Software Quality Assurance (SQA) | Junior Android Developer | Beginner in Machine Learning
 
-🎓 Education: Graduating from LGU in 2024
+🎓 Education: Graduating from LGU in 2025
 
-💡 Past Experience: Ex-Intern @ Shahruh Tech | Bytebridge Innovations
+💡 Past Experience: Ex-Intern @ Shahruh Tech | Bytebridge Innovations | Herbyzone | Its so simple.
 
 🤝 Looking to Collaborate on: Web and Mobile App Development Projects
 
