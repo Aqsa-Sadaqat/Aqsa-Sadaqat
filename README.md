@@ -2,7 +2,7 @@ Hi, I’m @Aqsa-Sadaqat 👋
 
 👩🏻‍💻 Profession: Software Engineer | PYTHON | WEB DEV | REACT | JAVA | MACHIN LEARNING | FLUTTER
 
-💼 Current Role: Software Engineer @ SHAHRUH Technologies
+💼 Current Role: Software Engineer @ Khired Networks
 
 🌱 Skills: | Python | Machine Learning | Web Development | Java | React | Cloud | Openstack (Basics) | Flutter applications | UI/UX Design | Prototyping | Software Quality Assurance (SQA) | Beginner in Machine Learning
 
